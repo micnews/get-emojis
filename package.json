@@ -1,0 +1,25 @@
+{
+  "name": "get-emojis",
+  "version": "0.0.0",
+  "description": "Extract emojis from a string",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micnews/get-emojis.git"
+  },
+  "author": "mic.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/micnews/get-emojis/issues"
+  },
+  "homepage": "https://github.com/micnews/get-emojis#readme",
+  "dependencies": {
+    "twemoji": "^1.4.1"
+  },
+  "devDependencies": {
+    "tape": "^4.2.2"
+  }
+}
