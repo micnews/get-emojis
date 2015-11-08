@@ -1,6 +1,6 @@
 {
   "name": "get-emojis",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Extract emojis from a string",
   "main": "index.js",
   "scripts": {
